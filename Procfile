@@ -1,1 +1,1 @@
-web: python hello_world.py
+web: python flash_cards.py
