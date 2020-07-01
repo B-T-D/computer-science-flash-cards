@@ -1,1 +1,1 @@
-web: python -m flask run
+web: python flash_cards.py
